@@ -1,5 +1,5 @@
-<p align="center">
-  <img height="400" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPnxsETAhR7OYa0CwD1H97wzA8-kS3ExSJQ&usqp=CAU" >   
+<p align="center" >
+  <img height="300" width="300" src="https://i.ya-webdesign.com/images/yahoo-weather-icons-png-8.png" >
 </p>
 
 ## A Progressive Web App [ PWA ] for Weather Information
